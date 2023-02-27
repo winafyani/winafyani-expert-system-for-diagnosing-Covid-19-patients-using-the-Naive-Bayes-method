@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>hp</Author>
+  <LastAuthor>hp</LastAuthor>
+  <Created>2021-08-14T03:59:52Z</Created>
+  <LastSaved>2021-08-14T04:00:41Z</LastSaved>
+  <Company>HP</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7340</WindowHeight>
+  <WindowWidth>19140</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>80</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="17" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Berat</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Berat</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sedang</Data></Cell>
+   </Row>
+   <Row ss:Height="15.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dewasa</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Tidak</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ya</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Berat</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R10C17</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
